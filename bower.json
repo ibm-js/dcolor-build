@@ -1,0 +1,17 @@
+{
+  "name": "dcolor-build",
+  "version": "0.1.0-dev",
+  "dependencies": {
+    "dcl": "1.1"
+  },
+  "devDependencies": {
+    "dcolor": "0.1.0-dev"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ]
+}
