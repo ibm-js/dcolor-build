@@ -1,11 +1,11 @@
 {
   "name": "dcolor-build",
-  "version": "0.1.1-dev",
+  "version": "0.1.2",
   "dependencies": {
     "dcl": "1.1.x"
   },
   "devDependencies": {
-    "dcolor": "0.1.1-dev"
+    "dcolor": "0.1.2"
   },
   "ignore": [
     ".jshintrc",
